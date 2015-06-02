@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 0b79bed2bfada4cc582c8ec8cfcfef44
+timeCreated: 1428995868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body1
+    100002: head
+    100004: Left eye
+    100006: lefthand
+    100008: leftleg
+    100010: Mouse
+    100012: //RootNode
+    100014: Right eye
+    100016: righthand
+    100018: rightleg
+    100020: tail
+    100022: Tooth
+    400000: body1
+    400002: head
+    400004: Left eye
+    400006: lefthand
+    400008: leftleg
+    400010: Mouse
+    400012: //RootNode
+    400014: Right eye
+    400016: righthand
+    400018: rightleg
+    400020: tail
+    400022: Tooth
+    2300000: body1
+    2300002: head
+    2300004: Left eye
+    2300006: lefthand
+    2300008: leftleg
+    2300010: Mouse
+    2300012: Right eye
+    2300014: righthand
+    2300016: rightleg
+    2300018: tail
+    2300020: Tooth
+    3300000: body1
+    3300002: head
+    3300004: Left eye
+    3300006: lefthand
+    3300008: leftleg
+    3300010: Mouse
+    3300012: Right eye
+    3300014: righthand
+    3300016: rightleg
+    3300018: tail
+    3300020: Tooth
+    4300000: Mouse
+    4300002: Tooth
+    4300004: Right eye
+    4300006: Left eye
+    4300008: righthand
+    4300010: lefthand
+    4300012: head
+    4300014: tail
+    4300016: rightleg
+    4300018: leftleg
+    4300020: body1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: mouse(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: body1
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: head
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: Left eye
+      position: {x: .225565642, y: .303398252, z: .525117934}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: lefthand
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: leftleg
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: Mouse
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 5.96046448e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: Right eye
+      position: {x: -.216538459, y: .303398252, z: .525117934}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: righthand
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: rightleg
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: tail
+      position: {x: -.0114919581, y: .0277793109, z: 1.21427224e-09}
+      rotation: {x: 1, y: 0, z: 0, w: 8.14603425e-08}
+      scale: {x: -1, y: -.999999881, z: -.999999881}
+      transformModified: 1
+    - name: Tooth
+      position: {x: .00582507532, y: -.119814038, z: .199771091}
+      rotation: {x: .0159647483, y: .994619071, z: -.095872812, w: -.0358672142}
+      scale: {x: .256566167, y: .27381435, z: .325839043}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 90800cff7fc47441aa2261c5656f19bb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 2cf68458.obj
+    100002: 2d03d990.obj
+    100004: body
+    100006: Capsule01
+    100008: Capsule02
+    100010: Capsule03
+    100012: Capsule04
+    100014: head
+    100016: Heart
+    100018: lefthand
+    100020: leftleg
+    100022: Omni01
+    100024: Omni02
+    100026: righthand
+    100028: rightleg
+    100030: Sphere001
+    100032: Sphere01
+    100034: Sphere02
+    100036: Sphere03
+    100038: Sphere04
+    100040: Sphere05
+    100042: Sphere06
+    100044: Sphere07
+    100046: Sphere09
+    100048: tail
+    100050: //RootNode
+    400000: 2cf68458.obj
+    400002: 2d03d990.obj
+    400004: body
+    400006: Capsule01
+    400008: Capsule02
+    400010: Capsule03
+    400012: Capsule04
+    400014: head
+    400016: Heart
+    400018: lefthand
+    400020: leftleg
+    400022: Omni01
+    400024: Omni02
+    400026: righthand
+    400028: rightleg
+    400030: Sphere001
+    400032: Sphere01
+    400034: Sphere02
+    400036: Sphere03
+    400038: Sphere04
+    400040: Sphere05
+    400042: Sphere06
+    400044: Sphere07
+    400046: Sphere09
+    400048: tail
+    400050: //RootNode
+    2300000: body
+    2300002: Capsule01
+    2300004: Capsule02
+    2300006: Capsule03
+    2300008: Capsule04
+    2300010: head
+    2300012: Heart
+    2300014: lefthand
+    2300016: leftleg
+    2300018: righthand
+    2300020: rightleg
+    2300022: Sphere001
+    2300024: Sphere01
+    2300026: Sphere02
+    2300028: Sphere03
+    2300030: Sphere04
+    2300032: Sphere05
+    2300034: Sphere06
+    2300036: Sphere07
+    2300038: Sphere09
+    2300040: tail
+    3300000: body
+    3300002: Capsule01
+    3300004: Capsule02
+    3300006: Capsule03
+    3300008: Capsule04
+    3300010: head
+    3300012: Heart
+    3300014: lefthand
+    3300016: leftleg
+    3300018: righthand
+    3300020: rightleg
+    3300022: Sphere001
+    3300024: Sphere01
+    3300026: Sphere02
+    3300028: Sphere03
+    3300030: Sphere04
+    3300032: Sphere05
+    3300034: Sphere06
+    3300036: Sphere07
+    3300038: Sphere09
+    3300040: tail
+    4300000: Sphere001
+    4300002: lefthand
+    4300004: leftleg
+    4300006: rightleg
+    4300008: tail
+    4300010: body
+    4300012: righthand
+    4300014: head
+    4300016: Sphere01
+    4300018: Sphere02
+    4300020: Sphere04
+    4300022: Sphere05
+    4300024: Sphere06
+    4300026: Sphere03
+    4300028: Capsule02
+    4300030: Capsule01
+    4300032: Sphere07
+    4300034: Sphere09
+    4300036: Capsule03
+    4300038: Capsule04
+    4300040: Heart
+    7400000: eat_sheep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: eat_sheep
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2cf68458.obj
+        weight: 1
+      - path: 2d03d990.obj
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Capsule01
+        weight: 1
+      - path: Capsule02
+        weight: 1
+      - path: Capsule03
+        weight: 1
+      - path: Capsule04
+        weight: 1
+      - path: head
+        weight: 1
+      - path: Heart
+        weight: 1
+      - path: lefthand
+        weight: 1
+      - path: leftleg
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: righthand
+        weight: 1
+      - path: rightleg
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere01
+        weight: 1
+      - path: Sphere02
+        weight: 1
+      - path: Sphere03
+        weight: 1
+      - path: Sphere04
+        weight: 1
+      - path: Sphere05
+        weight: 1
+      - path: Sphere06
+        weight: 1
+      - path: Sphere07
+        weight: 1
+      - path: Sphere09
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

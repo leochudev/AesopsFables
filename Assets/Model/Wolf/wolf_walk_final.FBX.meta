@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: a7d85a70b7ec64d58b0c5ed79f8e33cd
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2cf68458.obj
+    100002: 2d03d990.obj
+    100004: body
+    100006: head
+    100008: lefthand
+    100010: leftleg
+    100012: righthand
+    100014: rightleg
+    100016: Sphere001
+    100018: tail
+    100020: //RootNode
+    400000: 2cf68458.obj
+    400002: 2d03d990.obj
+    400004: body
+    400006: head
+    400008: lefthand
+    400010: leftleg
+    400012: righthand
+    400014: rightleg
+    400016: Sphere001
+    400018: tail
+    400020: //RootNode
+    2300000: body
+    2300002: head
+    2300004: lefthand
+    2300006: leftleg
+    2300008: righthand
+    2300010: rightleg
+    2300012: Sphere001
+    2300014: tail
+    3300000: body
+    3300002: head
+    3300004: lefthand
+    3300006: leftleg
+    3300008: righthand
+    3300010: rightleg
+    3300012: Sphere001
+    3300014: tail
+    4300000: Sphere001
+    4300002: lefthand
+    4300004: leftleg
+    4300006: rightleg
+    4300008: tail
+    4300010: body
+    4300012: righthand
+    4300014: head
+    7400000: wolf_walk
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wolf_walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2cf68458.obj
+        weight: 1
+      - path: 2d03d990.obj
+        weight: 1
+      - path: body
+        weight: 1
+      - path: head
+        weight: 1
+      - path: lefthand
+        weight: 1
+      - path: leftleg
+        weight: 1
+      - path: righthand
+        weight: 1
+      - path: rightleg
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

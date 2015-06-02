@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: ad0621f33d3fb4abab4a4367d10e2223
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: Capsule01
+    100006: Capsule02
+    100008: Capsule03
+    100010: Capsule04
+    100012: Omni01
+    100014: Omni02
+    100016: //RootNode
+    100018: Sphere01
+    100020: Sphere02
+    100022: Sphere03
+    100024: Sphere04
+    100026: Sphere05
+    100028: Sphere06
+    100030: Sphere07
+    100032: Sphere09
+    100034: Spot01
+    100036: Spot01.Target
+    100038: Spot02
+    100040: Spot02.Target
+    400000: Camera01
+    400002: Camera01.Target
+    400004: Capsule01
+    400006: Capsule02
+    400008: Capsule03
+    400010: Capsule04
+    400012: Omni01
+    400014: Omni02
+    400016: //RootNode
+    400018: Sphere01
+    400020: Sphere02
+    400022: Sphere03
+    400024: Sphere04
+    400026: Sphere05
+    400028: Sphere06
+    400030: Sphere07
+    400032: Sphere09
+    400034: Spot01
+    400036: Spot01.Target
+    400038: Spot02
+    400040: Spot02.Target
+    2300000: Capsule01
+    2300002: Capsule02
+    2300004: Capsule03
+    2300006: Capsule04
+    2300008: Sphere01
+    2300010: Sphere02
+    2300012: Sphere03
+    2300014: Sphere04
+    2300016: Sphere05
+    2300018: Sphere06
+    2300020: Sphere07
+    2300022: Sphere09
+    3300000: Capsule01
+    3300002: Capsule02
+    3300004: Capsule03
+    3300006: Capsule04
+    3300008: Sphere01
+    3300010: Sphere02
+    3300012: Sphere03
+    3300014: Sphere04
+    3300016: Sphere05
+    3300018: Sphere06
+    3300020: Sphere07
+    3300022: Sphere09
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere04
+    4300006: Sphere05
+    4300008: Sphere06
+    4300010: Sphere03
+    4300012: Capsule02
+    4300014: Capsule01
+    4300016: Sphere07
+    4300018: Sphere09
+    4300020: Capsule03
+    4300022: Capsule04
+    7400000: sheep_walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sheep_walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera01
+        weight: 1
+      - path: Camera01.Target
+        weight: 1
+      - path: Capsule01
+        weight: 1
+      - path: Capsule02
+        weight: 1
+      - path: Capsule03
+        weight: 1
+      - path: Capsule04
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Sphere01
+        weight: 1
+      - path: Sphere02
+        weight: 1
+      - path: Sphere03
+        weight: 1
+      - path: Sphere04
+        weight: 1
+      - path: Sphere05
+        weight: 1
+      - path: Sphere06
+        weight: 1
+      - path: Sphere07
+        weight: 1
+      - path: Sphere09
+        weight: 1
+      - path: Spot01
+        weight: 1
+      - path: Spot01.Target
+        weight: 1
+      - path: Spot02
+        weight: 1
+      - path: Spot02.Target
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
